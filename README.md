@@ -4,7 +4,10 @@ A lightweight backend service that mimics a Gen AI-powered data query system, al
 3.Set Up Environment Variables:PORT=
 4.run the server:npm start
 
-API-endpoints
+deployed LINK-https://mini-simulation.onrender.com/
+
+API-endpoints for postman:-
+
 /api/query: Accepts natural language query and return results
         this endpoint require an header (Authorization:SecretToken)
         {
